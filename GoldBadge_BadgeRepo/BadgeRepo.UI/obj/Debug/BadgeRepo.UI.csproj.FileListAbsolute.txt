@@ -1,0 +1,7 @@
+C:\EFA\GoldBadgeChallenges\GoldBadge_BadgeRepo\BadgeRepo.UI\bin\Debug\BadgeRepo.UI.exe.config
+C:\EFA\GoldBadgeChallenges\GoldBadge_BadgeRepo\BadgeRepo.UI\bin\Debug\BadgeRepo.UI.exe
+C:\EFA\GoldBadgeChallenges\GoldBadge_BadgeRepo\BadgeRepo.UI\bin\Debug\BadgeRepo.UI.pdb
+C:\EFA\GoldBadgeChallenges\GoldBadge_BadgeRepo\BadgeRepo.UI\obj\Debug\BadgeRepo.UI.csprojAssemblyReference.cache
+C:\EFA\GoldBadgeChallenges\GoldBadge_BadgeRepo\BadgeRepo.UI\obj\Debug\BadgeRepo.UI.csproj.CoreCompileInputs.cache
+C:\EFA\GoldBadgeChallenges\GoldBadge_BadgeRepo\BadgeRepo.UI\obj\Debug\BadgeRepo.UI.exe
+C:\EFA\GoldBadgeChallenges\GoldBadge_BadgeRepo\BadgeRepo.UI\obj\Debug\BadgeRepo.UI.pdb
